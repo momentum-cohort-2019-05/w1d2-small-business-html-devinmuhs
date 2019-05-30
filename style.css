@@ -1,0 +1,58 @@
+.navigation-bar {
+    background-color: green;
+    height: 50px;
+    padding-top: 15px;
+    padding-left: 30px;
+    font-size: 30px;
+}
+
+
+body {
+    margin: 0;
+    
+}
+
+.body1 {
+    background: url(starter_files/images/store-interior.jpg) no-repeat;
+    background-size: 100%;
+    background-attachment: fixed;
+}
+
+
+.index_main {
+    background-color: white;
+    height: 400px;
+}
+
+#logo_span {
+    height: 250px;
+    text-align: center;
+    padding-top: 110px;
+    font-size: 37px;
+    color: white;
+}
+#main_paragraphs {
+    font-size: 20px;
+    text-align: center;
+}
+
+a:link {
+    color: white;
+}
+
+a:visited {
+    color: white;
+}
+
+a:hover {
+    color: #AEFEAE;
+}
+
+a:active {
+    color: skyblue;
+}
+
+#logo {
+    background: rgba(0, 151, 19, 0.4)
+    background-color: #D3D3D3;
+}
